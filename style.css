@@ -1,0 +1,35 @@
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.jumbotron{
+    padding-top: 87px;
+    background-color: lightgrey;
+}
+
+.jumbotron h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.jumbotron p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#achievment{
+    background-color: lightgrey;
+}
+
+#card img{
+    height: 190px;
+}
+
+section{
+    padding-top: 4rem;
+}
+
+@media(max-width: 770px){
+    .card{
+        margin-bottom: 20px;
+    }
+}
